@@ -17,7 +17,15 @@ npm (comes with Node.js)
    git clone <repository-url>
       cd mongodb-bookstore
    ```
-### 2. Install dependencies  
-npm install mongodb
+### 2. **Install dependencies**  
+```npm install mongodb```
 ### 3. Set up MongoDB
-#### Option A: Local MongoDB =
+#### Option A: Local MongoDB 
+```# Start MongoDB service (macOS/Linux)
+brew services start mongodb-community  # For Homebrew
+# or
+sudo systemctl start mongod            # For Linux
+
+# Verify it's running
+mongosh
+```
