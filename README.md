@@ -21,7 +21,8 @@ npm (comes with Node.js)
 ```npm install mongodb```
 ### 3. Set up MongoDB
 #### Option A: Local MongoDB 
-```# Start MongoDB service (macOS/Linux)
+```
+# Start MongoDB service (macOS/Linux)
 brew services start mongodb-community  # For Homebrew
 # or
 sudo systemctl start mongod            # For Linux
@@ -29,3 +30,7 @@ sudo systemctl start mongod            # For Linux
 # Verify it's running
 mongosh
 ```
+####Option B: MongoDB Atlas
+*Create free cluster at MongoDB Atlas
+
+*Update connection string in insert_books.js
