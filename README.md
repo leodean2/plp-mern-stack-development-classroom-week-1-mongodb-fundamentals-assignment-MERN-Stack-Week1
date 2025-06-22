@@ -1,4 +1,6 @@
-MongoDB Bookstore Project - README
+#MongoDB Bookstore Project - README
+==========
+
 📚 Project Overview
 A Node.js application demonstrating MongoDB fundamentals including CRUD operations, advanced queries, aggregation pipelines, and indexing using a bookstore database example.
 
