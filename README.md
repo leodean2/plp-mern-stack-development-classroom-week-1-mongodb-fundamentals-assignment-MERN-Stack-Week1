@@ -34,3 +34,15 @@ mongosh
 * Create free cluster at MongoDB Atlas
 
 * Update connection string in insert_books.js
+### 4. Populate the database
+```
+node insert_books.js
+```
+### 📂 Project Structure
+```
+mongodb-bookstore/
+├── insert_books.js       # Script to populate sample book data
+├── queries.js            # Example CRUD and aggregation queries
+├── README.md             # This file
+└── package.json          # Node.js project file
+```
