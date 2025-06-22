@@ -13,5 +13,6 @@ npm (comes with Node.js)
 
 🚀 Setup Instructions
 1. Clone the repository
-   git clone <repository-url>
-cd mongodb-bookstore
+   '''git clone <repository-url>
+      cd mongodb-bookstore
+   '''
