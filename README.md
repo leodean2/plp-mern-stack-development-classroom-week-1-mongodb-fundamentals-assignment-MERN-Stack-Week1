@@ -11,7 +11,7 @@ A Node.js application demonstrating MongoDB fundamentals including CRUD operatio
 
 * npm (comes with Node.js)
 
-🚀 Setup Instructions
+## 🚀 Setup Instructions
 ### 1. **Clone the repository**
    ```
    git clone <repository-url>
