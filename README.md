@@ -18,3 +18,6 @@ npm (comes with Node.js)
       cd mongodb-bookstore
    '''
 ### 2. Install dependencies  
+npm install mongodb
+### 3. Set up MongoDB
+#### Option A: Local MongoDB=
