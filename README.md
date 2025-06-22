@@ -1,3 +1,4 @@
+MongoDB Bookstore Project - README
 📚 Project Overview
 A Node.js application demonstrating MongoDB fundamentals including CRUD operations, advanced queries, aggregation pipelines, and indexing using a bookstore database example.
 
@@ -9,3 +10,6 @@ MongoDB (local instance or Atlas account)
 npm (comes with Node.js)
 
 🚀 Setup Instructions
+1. Clone the repository
+   git clone <repository-url>
+cd mongodb-bookstore
