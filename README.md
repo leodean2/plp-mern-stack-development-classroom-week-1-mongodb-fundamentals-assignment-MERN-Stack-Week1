@@ -20,4 +20,4 @@ npm (comes with Node.js)
 ### 2. Install dependencies  
 npm install mongodb
 ### 3. Set up MongoDB
-#### Option A: Local MongoDB=
+#### Option A: Local MongoDB =
