@@ -30,7 +30,7 @@ sudo systemctl start mongod            # For Linux
 # Verify it's running
 mongosh
 ```
-####Option B: MongoDB Atlas
-*Create free cluster at MongoDB Atlas
+#### Option B: MongoDB Atlas
+* Create free cluster at MongoDB Atlas
 
-*Update connection string in insert_books.js
+* Update connection string in insert_books.js
